@@ -1,11 +1,11 @@
 {
-  "name": "team-02-jsproject",
+  "name": "team02-jsproject",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/team-02-jsproject/",
+    "build": "vite build --base=/team02-jsproject/",
     "preview": "vite preview"
   },
   "devDependencies": {
